@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/SeeYou1ater" target="_blank">Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![codewars](https://www.codewars.com/users/SeeYou1ater/badges/large)](https://www.codewars.com/users/SeeYou1ater)
+[![codewars](https://www.codewars.com/users/SeeYou1ater/badges/large)](https://www.codewars.com/users/SeeYou1ater)]
   
 
 <!--
