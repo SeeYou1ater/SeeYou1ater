@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/SeeYou1ater" target="_blank">Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![codewars](https://www.codewars.com/users/SeeYou1ater/badges/large)](https://www.codewars.com/users/SeeYou1ater)
+<p align="end">[![codewars](https://www.codewars.com/users/SeeYou1ater/badges/large)](https://www.codewars.com/users/SeeYou1ater)</p>
 
 <!--
 **SeeYou1ater/SeeYou1ater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
